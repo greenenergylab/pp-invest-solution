@@ -1,7 +1,7 @@
 # Fallstudie Energiemanagement – Musterlösung  
 ## Investitionsanalyse für Kraftwerkstechnologien
 
-[![Notebook in Binder öffnen](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greenenergylab/pp-invest-solution/HEAD?urlpath=%2Fdoc%2Ftree%2FCaseStudy_PP_Profitability_Solution.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greenenergylab/pp-invest-solution/HEAD?urlpath=%2Fdoc%2Ftree%2FCaseStudy_PP_Profitability_Solution.ipynb)
 
 **Hinweis:** Dieses Jupyter-Notebook stellt die Musterlösung zur Fallstudie _„Investitionsanalyse für Kraftwerke“_ bereit. Es kann direkt im Browser über Binder geöffnet und ausgeführt werden.
 
